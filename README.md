@@ -93,4 +93,12 @@ Thank you for using the Inventory Management System. Goodbye!
 
 ## SCREENSHOT :
 
+**image 1**
+![mdf](https://github.com/user-attachments/assets/f95438e0-2999-4b52-9df5-4324513214ef) 
+
+**image 2**
+![mdf2](https://github.com/user-attachments/assets/c0144762-bfba-4dc1-a823-c250a65c9132) 
+
+**image 3**
+![mdf3](https://github.com/user-attachments/assets/fb26066d-4380-41a0-975a-390197703c04)
 
