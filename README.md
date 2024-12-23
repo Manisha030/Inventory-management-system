@@ -3,7 +3,7 @@
 **Company**: CODETECH IT SOLUTIONS  
 **Id**: CT08DS581
 **Domain**: PYTHON PROGRAMMING  
-**Duration**: dec 12th 2024 to Jan 12th, 2025
+**Duration**: DEC 12th 2024 to JAN 12th, 2025
 
 
 
